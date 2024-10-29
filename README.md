@@ -1,14 +1,13 @@
 HTML (25%)
+Nämä löytyvät index.hmtl tiedostosta
 1/5:
 Basic HTML structure is present.
 Löytyy index tiedostossa lähtien rivistä 1
 
-Learn more about Basic HTML structure
 2/5:
 HTML structure with clear content differentiation (headings, paragraphs, lists).
 Löytyy rivistä 9 lähtien
 
-Learn more about HTML Elements
 3/5:
 Use of forms, links, and media.
 Löytyy riveiltä 22-52
@@ -22,6 +21,7 @@ Consistent use of semantic HTML throughout, ensuring better structure and unders
 Löytyy jokaisen eri kohdan alussa ja lopussa
 
 CSS (25%)
+Nämä löytyvät tiedostosta styles.css
 1/5:
 Basic CSS styling (colors, fonts).
 Löytyy riveiltä 1-36
@@ -30,12 +30,12 @@ Löytyy riveiltä 1-36
 Use of classes and IDs to style specific elements.
 Löytyy riveiltä 1,8,15,23,28,35,39,42,48,54
 
-
 3/5:
 Implementation of responsive design elements.
 Löytyy riveiltä 11,44,50
 
 JavaScript Basics (25%)
+Nämä löytyvät script.js tiedostosta
 1/5:
 Simple interactions (like alerts on button click).
 Löytyy riveiltä 10-12
@@ -57,6 +57,7 @@ Consistent use of Object-Oriented JavaScript principles.
 Löytyy riveiltä 2,8,12-29
 
 Asynchronous Operations (25%)
+Nämä löytyvät script.js tiedostosta
 1/5:
 Use of timers.
 Löytyy riveiltä 28-29,36-39
